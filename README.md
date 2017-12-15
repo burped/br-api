@@ -5,7 +5,7 @@ Currently, as there is no way to find players by name, the best alternative is t
 
 There is much tweaking to do, and easier ways to present the data. 
 
-Information that can currently be gotten:
+Information that can currently be received:
 
 ### Player
 
@@ -89,7 +89,7 @@ try {
 ```
 # Further information
 
-Raw data is below for anyone looking to make their own wrapper. Most of this information is gained from looking up players with relevant titles and finding their codes.
+Raw data is below for anyone looking to make their own wrapper. Most of this information was gained from looking up players with relevant titles and finding their codes. Note that is not yet complete.
 
 ## Title ID's
 ```
@@ -137,3 +137,6 @@ All the champion wins start with 12xxx, and their losses start with 13xxx. The m
 41 - Alysia
 
 ```
+
+## Authors
+* **James Horton** - [More](https://github.com/burped)
